@@ -1,0 +1,25 @@
+{
+  "products" :
+  [
+    {"id":1,"name":"Dorena Kampshell","category":"Orange"},
+    {"id":2,"name":"Helyn Gout","category":"Yellow"},
+    {"id":3,"name":"Bertie Stannering","category":"Yellow"},
+    {"id":4,"name":"Mohandis Haydn","category":"Crimson"},
+    {"id":5,"name":"Vince Cazin","category":"Purple"},
+    {"id":6,"name":"Laughton Gallamore","category":"Indigo"},
+    {"id":7,"name":"Rabbi Shoulder","category":"Khaki"},
+    {"id":8,"name":"Margit Ferens","category":"Yellow"},
+    {"id":9,"name":"Alick Ebbin","category":"Red"},
+    {"id":10,"name":"Briggs Spurdens","category":"Red"},
+    {"id":11,"name":"Cody Schimek","category":"Goldenrod"},
+    {"id":12,"name":"Dallis Attfield","category":"Teal"},
+    {"id":13,"name":"Mandel Tille","category":"Orange"},
+    {"id":14,"name":"Celisse Slingsby","category":"Puce"},
+    {"id":15,"name":"Marten Bourley","category":"Aquamarine"},
+    {"id":16,"name":"Mildrid Bramo","category":"Blue"},
+    {"id":17,"name":"Vita Mil","category":"Orange"},
+    {"id":18,"name":"Daveta Rebeiro","category":"Fuscia"},
+    {"id":19,"name":"Heddie Hendrichs","category":"Red"},
+    {"id":20,"name":"Lucine Foakes","category":"Maroon"}
+  ]
+}
